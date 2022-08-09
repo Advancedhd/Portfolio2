@@ -29,14 +29,6 @@ function ProjectCards() {
                 >
                   Github
                 </Button>
-                <Button
-                  className="site__button"
-                  variant="primary"
-                  href="https://dazzling-dango-a74766.netlify.app"
-                  target="_blank"
-                >
-                  Site
-                </Button>
               </Card.Body>
             </Card>
           </Col>
